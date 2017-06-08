@@ -33,10 +33,10 @@ hr.light {
 }
 a {
 	transition: all .35s;
-	color: #0f3935
+	color: #0f3935;
 }
 a:focus, a:hover {
-	color: #eb3812
+	color: #fff;
 }
 p {
 	font-size: 16px;
@@ -51,7 +51,7 @@ p {
 	color: #fff
 }
 .text-faded {
-	color: rgba(255, 255, 255, .7)
+	color: #31708f)
 }
 section {
 	padding: 100px 0
@@ -64,7 +64,7 @@ aside {
 }
 .navbar-default {
 	background-color: #fff;
-	border-color: rgba(34, 34, 34, .05);
+	border-color: #31708f;
 	transition: all .35s
 }
 .btn-default, .portfolio-box .portfolio-box-caption {

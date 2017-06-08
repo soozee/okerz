@@ -92,7 +92,7 @@ aside {
 	color: #222
 }
 .navbar-default .nav>li>a:focus:hover, .navbar-default .nav>li>a:hover {
-	color: #0f3935
+	color: #0f3935;
 }
 .navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus {
 	color: #0f3935 !important;
@@ -113,7 +113,7 @@ aside {
 		color: #fff
 	}
 	.navbar-default .nav>li>a, .navbar-default .nav>li>a:focus {
-		color: rgba(255, 255, 255, .7)
+		color: #0f3935;)
 	}
 	.navbar-default .nav>li>a:focus:hover, .navbar-default .nav>li>a:hover {
 		color: #fff

@@ -191,6 +191,9 @@ header .header-content .header-content-inner p {
 		margin-left: auto;
 		margin-right: auto
 	}
+	.buybanner {
+		height:30%;
+	}
 }
 #homeHeading {
 	font-family: 'Poiret One', cursive;
@@ -340,4 +343,13 @@ img::selection {
 img::-moz-selection {
 	color: #fff;
 	background: 0 0
+}
+.buybanner {
+	padding:45px;
+}
+.buybanner p {
+	width:70%;
+	text-align: center;
+	margin:0 auto;
+	padding-bottom:10px;
 }

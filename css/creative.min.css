@@ -346,6 +346,7 @@ img::-moz-selection {
 }
 .buybanner {
 	padding:45px;
+	min-height: 0;
 }
 .buybanner p {
 	width:70%;

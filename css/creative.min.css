@@ -192,6 +192,9 @@ header .header-content .header-content-inner p {
 		margin-right: auto
 	}
 }
+#homeHeading {
+	font-family: 'Poiret One', cursive;
+}
 .section-heading {
 	margin-top: 0
 }
